@@ -1,3 +1,7 @@
+Backend of lets-ride app 
+created using python-Django and Django Rest Framework
+
+=====================================================================
 
 APIs
 
@@ -20,4 +24,9 @@ api/my-requests/?asset_type=LAPTOP&ordering=-date_time - get current user reques
 /api/user-request-update/pk/ - Update the requests on user applying to matched requests (put/patch)
 
 
+=====================================================================
+
+
 Frontend created in Reactjs and material UI which consumes above APIs
+
+=====================================================================
